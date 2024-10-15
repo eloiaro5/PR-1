@@ -48,5 +48,5 @@ Al meu treball ajudo a dissenyar i creo pàgines web constantment i, per dur-ho a
 - Bootstrap icons
 Acostumo a utilitzar FontAwesome pels meus projectes, ja que compte amb moltes icones, no obstant, degut a no hostejar la pàgina com a tal, hi havia problemas al recuperar les fonts que utilitza. Per tant, he cregut oportú utilitzar la contrapart de Bootstrap.
 
-#Figma
+# Figma
 https://www.figma.com/proto/AV0TTn6FsL8Rdv7ZVk4joS/CVitae?node-id=1-2&node-type=canvas&t=887obGqBR6a9ucax-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
